@@ -18,7 +18,7 @@
 
 
 ## Web App
-<img src="https://github.com/user-attachments/assets/418ad86c-6de5-46de-aecf-88ed1be7c46a" width="400"/>
+<img src="https://github.com/user-attachments/assets/418ad86c-6de5-46de-aecf-88ed1be7c46a" width="650"/>
 
 
 ## Overview
