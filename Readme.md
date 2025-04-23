@@ -1,5 +1,6 @@
 # Table of contents
 * [Demo](#Demo)
+* [Web App](#WebApp) 
 * [Overview](#Overview)
 * [Motivation](#Motivation)
 * [Technologies](#Technologies)
@@ -14,6 +15,10 @@
 ## 🚀 Demo
 
 [![Demo Video](https://img.shields.io/badge/Watch-Demo-blue?logo=google-drive)](https://drive.google.com/file/d/1SWS0w03qVkyPHs4hPOlfMceLg4EyMHVW/view?usp=sharing)
+
+
+## Web App
+<img src="https://github.com/user-attachments/assets/418ad86c-6de5-46de-aecf-88ed1be7c46a" width="400"/>
 
 
 ## Overview
