@@ -12,7 +12,10 @@
 
 
 ## Demo
-<img src="https://github.com/user-attachments/assets/be88382e-d2a2-4454-a4d5-9191bb763d7e" width="500" />
+## 🚀 Demo
+
+[![Demo Video](https://img.shields.io/badge/Watch-Demo-blue?logo=google-drive)](https://drive.google.com/file/d/1SWS0w03qVkyPHs4hPOlfMceLg4EyMHVW/view?usp=sharing)
+
 
 ## Overview
 This project demonstrates the end-to-end process of building predictive machine learning model and deploying it locally using flask. 
